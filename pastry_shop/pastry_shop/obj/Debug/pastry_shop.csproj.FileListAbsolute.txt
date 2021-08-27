@@ -1,0 +1,62 @@
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe.config
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.pdb
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csprojAssemblyReference.cache
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fBackground.resources
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fLogIn.resources
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.Properties.Resources.resources
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.GenerateResource.cache
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.CoreCompileInputs.cache
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.exe
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.pdb
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fTableManager.resources
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAdmin.resources
+C:\Users\Chinh\Desktop\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAccountProfile.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe.config
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.pdb
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csprojAssemblyReference.cache
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAccountProfile.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAdmin.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fBackground.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fLogIn.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.Properties.Resources.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fTableManager.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.GenerateResource.cache
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.CoreCompileInputs.cache
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.exe
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.pdb
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fFoodCategory.resources
+F:\Chinh_Nguyeen\C# Connect Mitsubishi PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fDrink.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe.config
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.pdb
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csprojAssemblyReference.cache
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAccountProfile.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAdmin.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fBackground.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fDrink.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fFoodCategory.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fLogIn.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.Properties.Resources.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fTableManager.resources
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.GenerateResource.cache
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.CoreCompileInputs.cache
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.exe
+F:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.pdb
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe.config
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.exe
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\bin\Debug\pastry_shop.pdb
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csprojAssemblyReference.cache
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAccountProfile.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fAdmin.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fBackground.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fDrink.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fFoodCategory.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fLogIn.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.Properties.Resources.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.fTableManager.resources
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.GenerateResource.cache
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.csproj.CoreCompileInputs.cache
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.exe
+E:\Chinh_Nguyeen\C#_PLC\NT\pastry_shop\pastry_shop\obj\Debug\pastry_shop.pdb

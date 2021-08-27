@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0FF8B0F4-EF58-4060-A280-981165E0CC52}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pastry_shop</RootNamespace>
+    <AssemblyName>pastry_shop</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountProfile.Designer.cs">
+      <DependentUpon>AccountProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Background.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Background.Designer.cs">
+      <DependentUpon>Background.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillInfoDAO.cs" />
+    <Compile Include="DAO\CategoryDAO.cs" />
+    <Compile Include="DAO\DataProvider1.cs" />
+    <Compile Include="DAO\FoodDAO.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\TableDAO.cs" />
+    <Compile Include="DTO\Bill.cs" />
+    <Compile Include="DTO\BillInfo.cs" />
+    <Compile Include="DTO\Category.cs" />
+    <Compile Include="DTO\Food.cs" />
+    <Compile Include="DTO\Menu.cs" />
+    <Compile Include="DTO\Table.cs" />
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="fDrink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDrink.Designer.cs">
+      <DependentUpon>fDrink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodCategory.Designer.cs">
+      <DependentUpon>FoodCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TableManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableManager.Designer.cs">
+      <DependentUpon>TableManager.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountProfile.resx">
+      <DependentUpon>AccountProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Background.resx">
+      <DependentUpon>Background.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDrink.resx">
+      <DependentUpon>fDrink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodCategory.resx">
+      <DependentUpon>FoodCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TableManager.resx">
+      <DependentUpon>TableManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muiten1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pound_cake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banh-apple-pies.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banh-ngot-pancake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banh-ngot-souffle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banh-quiche.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HightFatCake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButterCake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chiffoncake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kem Mochi_Nhat_Ban.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kem_cuon%28Rolled Ice Cream%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sua_chua_đong_lanh%28Frozen Yogurt%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra-pho-mai-kem-sua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra-pho-mai-kem-sua1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra-sua-gao-rang-han-quoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRA-SUA-HOKKAIDOU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Che_khuc_bach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Che_ngo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Che_thai.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flan.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
